@@ -1,0 +1,14 @@
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\bin\Debug\net8.0\Metodo-Pago.exe
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\bin\Debug\net8.0\Metodo-Pago.deps.json
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\bin\Debug\net8.0\Metodo-Pago.runtimeconfig.json
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\bin\Debug\net8.0\Metodo-Pago.dll
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\bin\Debug\net8.0\Metodo-Pago.pdb
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.AssemblyInfoInputs.cache
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.AssemblyInfo.cs
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.csproj.CoreCompileInputs.cache
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.dll
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\refint\Metodo-Pago.dll
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.pdb
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\Metodo-Pago.genruntimeconfig.cache
+C:\Desarrollo\ITM\Metodo-Pago\Metodo-Pago\obj\Debug\net8.0\ref\Metodo-Pago.dll
